@@ -1,4 +1,4 @@
-# speechGenerator# Speech Generator 🗣️🔊
+# Speech Generator 🗣️🔊
 
 Welcome to **Speech Generator**, a simple yet powerful Streamlit application that converts lines of text from a `.txt` file into `.wav` audio files using text-to-speech (TTS) technology. 🎉
 
@@ -61,13 +61,11 @@ Speech Generator/
 
 ## Screenshots 📸
 
-### Uploading a Text File
-
-![Upload Screenshot](https://via.placeholder.com/600x300.png?text=Upload+Text+File)
 
 ### Generated Audio Files
 
-![Audio Files Screenshot](https://via.placeholder.com/600x300.png?text=Generated+Audio+Files)
+<img width="1432" alt="Screenshot 2025-01-05 at 11 07 07" src="https://github.com/user-attachments/assets/ee778976-769a-43ae-9462-aadd01ae80b5" />
+
 
 ---
 
